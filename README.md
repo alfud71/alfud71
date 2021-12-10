@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mary Son.
-- 👀 I’m interested in Frontend and developing useful service
+- 👀 I’m interested in Frontend and developing useful service.
 
 <!---
 alfud71/alfud71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
